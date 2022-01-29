@@ -6,12 +6,12 @@ iOS Uber Clone with Swift &amp; Firebase
 </p>
 
 <p align="row">
-<img src="https://user-images.githubusercontent.com/73575643/151657046-6720dc4a-d9a3-4b55-a57f-cddae22a02c2.png" width="400" >
- <img src="https://user-images.githubusercontent.com/73575643/151657050-ccaa62ba-9340-499e-958d-6deed5e4751d.png" width="400" >
- <img src= "https://user-images.githubusercontent.com/73575643/151657052-3aa3ccaa-bc3b-4ff4-8b1e-d73cd0ecae73.png" width="400" >
-<img src= "https://user-images.githubusercontent.com/73575643/151657053-589d1527-f278-45fb-a624-3f669a35a8e4.png" width="400" >
- <img src= "https://user-images.githubusercontent.com/73575643/151657054-a5f7e729-d115-4fbd-9eff-cd1c62be87e0.png" width="400" >
- <img src= "https://user-images.githubusercontent.com/73575643/151657123-02344358-5836-4416-9420-99381695767f.png" width="400" >
+<img src="https://user-images.githubusercontent.com/73575643/151657363-9cdc4869-1a98-4c12-97a7-bdedf6cdb5cc.png" width="400" >
+ <img src="https://user-images.githubusercontent.com/73575643/151657375-a4b04d6d-41a2-4faf-8140-1a8f5f4a77e9.png" width="400" >
+ <img src= "https://user-images.githubusercontent.com/73575643/151657384-f5ccc07d-1f07-4c38-8136-631dc6e1b430.png" width="400" >
+<img src= "https://user-images.githubusercontent.com/73575643/151657391-5cc70cc7-ce86-489e-a92f-7794c0a99b67.png" width="400" >
+ <img src= "https://user-images.githubusercontent.com/73575643/151657401-971a1bd9-fa4d-4855-a0ad-32ebd8934b0f.png" width="400" >
+ <img src= "https://user-images.githubusercontent.com/73575643/151657413-151ec756-cdb9-4356-8785-5efccca7a2be.png" width="400" >
 </p>
 
 ## User Types
